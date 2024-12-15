@@ -52,9 +52,6 @@ This repository contains the code for a multifunctional robotic system capable o
 2. **Control**: Use a Bluetooth terminal app or voice commands to control the robot.
 3. **Obstacle Avoidance**: Watch the robot automatically avoid obstacles when in operation.
 
-## Circuit Diagram
-Include your circuit diagram or description here.
-
 ## RTOS Integration
 The code is structured to use an **RTOS** for:
 - Task prioritization: Critical tasks like obstacle avoidance have higher priority.
